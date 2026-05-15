@@ -10,7 +10,7 @@ export default function MobileCTA() {
         </a>
 
         <a
-          href="https://maps.google.com"
+          href="https://www.google.com/maps/dir/?api=1&destination=A+B+CAFE+%26+EATERY+Gudur"
           target="_blank"
           className="py-4 text-center font-semibold border-r border-white/10"
         >
