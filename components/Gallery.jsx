@@ -1,10 +1,10 @@
 import Image from "next/image";
 
 const galleryImages = [
-  "/images/gallery1.jpg",
-  "/images/gallery2.jpg",
-  "/images/gallery3.jpg",
-  "/images/gallery4.jpg",
+  "/images/gallery-1.webp",
+  "/images/gallery-2.webp",
+  "/images/gallery-3.webp",
+  "/images/gallery-4.webp",
 ];
 
 export default function Gallery() {
