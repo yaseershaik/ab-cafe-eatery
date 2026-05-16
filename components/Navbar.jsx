@@ -21,7 +21,7 @@ export default function Navbar() {
         </nav>
 
         <a
-          href="tel:+919100010203"
+          href="tel:+911234567890"
           className="bg-[#ff4d6d] hover:bg-[#ff2f57] transition px-4 py-2 rounded-full text-sm font-semibold"
         >
           Call Now
